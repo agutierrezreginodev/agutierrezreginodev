@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adrian Andres Gutierrez Regino</h1>
 <h3 align="center">A begineer Web Developer</h3>
+<p align="left">📚 I'm currently learning Python.<br>🎯 Goals: Become a web developer within 8-10 months<br>🎲 Fun fact: I love making desserts 🍰.</p>
 
 - ⚡ Fun fact **I love to listen EDM 🎵**
 
@@ -8,7 +9,6 @@
 - 📫 How to reach me **dev.agutierrezregino@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">📚 I'm currently learning Python.<br>🎯 Goals: Become a web developer within 8-10 months<br>🎲 Fun fact: I love making desserts 🍰.</p>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/adrian-gutierrez-regino/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adrian-gutierrez-regino/" height="30" width="40" /></a>
 </p>
